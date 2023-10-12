@@ -14,6 +14,7 @@ class Expense {
 
   final String id;
   final String title;
+  // double ... floating-point number 小数点以下の数値を正確にあらわす
   final double amount;
   final DateTime date;
   final Category category;
